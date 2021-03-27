@@ -1,0 +1,16 @@
+body{
+    background-color: azure;
+    text-align: center;
+}
+#school{
+    border-radius: 100px;
+    margin-right: 200px;
+}
+#library{
+    width:700px;
+    height:400px;
+}
+#play{
+    width:700px;
+    height:400px;
+}
